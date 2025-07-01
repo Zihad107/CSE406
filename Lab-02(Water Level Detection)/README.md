@@ -19,15 +19,6 @@ Thanks to everyone for their hard work and dedication in building this project. 
 ---
 
 
-## 📁 What's Inside
-
-Here’s what you’ll find in this project:
-
-- `Lab-2(Water Level Detect).ino` – The main Arduino code that reads water levels and controls the LEDs.
-- `README.md` – You’re reading it! This file gives an overview of the project.
-
----
-
 ## 🔧 Components You'll Need
 
 To build this project, you’ll need the following components:
