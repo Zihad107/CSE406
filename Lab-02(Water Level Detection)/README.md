@@ -53,7 +53,7 @@ Here’s how to connect everything:
 
 📸 Actual Project Setup
 
-![Wiring Diagram](https://github.com/Zihad107/Water-Level-Monitor/blob/master/Real%20setup.jpg)
+![Wiring Diagram](https://github.com/Zihad107/CSE406/blob/master/Lab-02(Water%20Level%20Detection)/Real%20Setup.jpg)
 
 ## 📊 Understanding the Water Levels
 
