@@ -37,7 +37,7 @@ Perform a **stress test** on UART communication between two ESP8266 NodeMCUs usi
   - Both GND pins connected via breadboard
 
 📸 *Hardware Setup Image:*  
-![Hardware Setup](link-to-your-image-file)
+![Hardware Setup](https://github.com/Zihad107/CSE406/blob/master/Lab-03(UART)/Hardware_setup.jpg)
 
 ---
 
@@ -47,8 +47,8 @@ Perform a **stress test** on UART communication between two ESP8266 NodeMCUs usi
 - **Board Package**: ESP8266 v3.1.2  
 - **Monitoring Tool**: [CoolTerm](https://freeware.the-meiers.org/)
 - **Sketches**:
-  - [`Master_Final.ino`](https://github.com/Zihad107/CSE406/blob/master/Lab-03(UART)/Master.ino) – controls transmission (NodeMCU 1)
-  - [`Slave.ino`](https://github.com/Zihad107/CSE406/blob/master/Lab-03(UART)/Master.ino) – listens and echoes back (NodeMCU 2)
+  - [`Master_Final.ino`](https://github.com/Zihad107/CSE406/blob/master/Lab-03(UART)/Master_Final.ino) – controls transmission (NodeMCU 1)
+  - [`Slave.ino`](https://github.com/Zihad107/CSE406/blob/master/Lab-03(UART)/Slave.ino) – listens and echoes back (NodeMCU 2)
 
 ---
 
@@ -77,8 +77,8 @@ Perform a **stress test** on UART communication between two ESP8266 NodeMCUs usi
 
 | File | Description |
 |------|-------------|
-| [`Master_Final.ino`](https://github.com/Zihad107/CSE406/blob/master/Lab-03(UART)/Master.ino) | Code for transmitter (NodeMCU 1) |
-| [`Slave.ino`](https://github.com/Zihad107/CSE406/blob/master/Lab-03(UART)/Master.ino) | Code for receiver (NodeMCU 2) |
+| [`Master_Final.ino`](https://github.com/Zihad107/CSE406/blob/master/Lab-03(UART)/Master_Final.ino) | Code for transmitter (NodeMCU 1) |
+| [`Slave.ino`](https://github.com/Zihad107/CSE406/blob/master/Lab-03(UART)/Slave.ino) | Code for receiver (NodeMCU 2) |
 | [`nodemcu1_output.txt`](https://github.com/Zihad107/CSE406/blob/master/Lab-03(UART)/nodemcu1_output.txt) | Output log from Master |
 | [`nodemcu2_output.txt`](https://github.com/Zihad107/CSE406/blob/master/Lab-03(UART)/nodemcu2_output.txt) | Output log from Slave |
 | [`Zihad_Khan_UART_Lab_Report.pdf`](https://github.com/Zihad107/CSE406/blob/master/Lab-03(UART)/Zihad_Khan_UART_Lab_Report.pdf) | Full lab report PDF |
