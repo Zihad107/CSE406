@@ -1,6 +1,6 @@
 #include <SoftwareSerial.h>
 
-// Define SoftwareSerial pins (D6 = RX, D5 = TX)
+// Define SoftwareSerial pins (D6 = RX,D5 = TX)
 SoftwareSerial mySerial(D6, D5);
 
 void setup() {
